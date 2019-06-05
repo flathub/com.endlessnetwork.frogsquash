@@ -33,12 +33,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endless-network/FrogSquash_Binary.git",
-                    "commit":"1553a38f6365eeb645e54378bb792a48ac046927"
+                    "commit":"3ed769b8d9ad45b05e821887509414af3d3b0f7e"
                 },
                 {
                     "type": "file",
-                    "url": "https://github.com/endless-network/FrogSquash_Binary/releases/download/v1.1/FrogSquash.zip",
-                    "sha256":"ba0119c4c1f24f7aaa38e96a6341741d1c272934cc0fdd49444b8d94e5a33c6d"
+                    "url": "https://github.com/endless-network/FrogSquash_Binary/releases/download/v1.2/FrogSquash.zip",
+                    "sha256":"5364db27817c8fdac13b2e998b02d59fe50bba00d800602c10f6d167c2e5a121"
                 },
                 {
                     "type": "script",
