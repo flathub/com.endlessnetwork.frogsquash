@@ -33,7 +33,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endless-network/FrogSquash_Binary.git",
-                    "commit":"13307ee2a8e86cd2c428d8a7628c2961081f85be"
+                    "commit":"ae256225ef5d458ad707f476faab966f618374ac"
                 },
                 {
                     "type": "file",
