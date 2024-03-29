@@ -1,7 +1,7 @@
 {
     "app-id": "com.endlessnetwork.frogsquash",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "21.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "com.endlessnetwork.frogsquash.sh",
     "separate-locales": false,
@@ -33,7 +33,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endless-network/FrogSquash_Binary.git",
-                    "commit":"ae256225ef5d458ad707f476faab966f618374ac"
+                    "commit": "40c136658a85e6db8cfe1acdf92e69fa77a18c7b"
                 },
                 {
                     "type": "file",
